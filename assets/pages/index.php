@@ -40,10 +40,16 @@
                     </ul>
                 </li>
             </ul>
-
             <p>
                 I'm open to job opportunities, and my CV is available on request.
             </p>
+        </div>
+
+        <div class="about-skills">
+            <h3 class="white-text">Skills</h3>
+                <ul class="grid-list slide-left show-on-scroll">
+                    
+                </ul>
         </div>
     </section>
 </body>
