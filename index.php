@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -217,7 +216,7 @@
         }
 
         .main-photo {
-          background: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/781613/profile/profile-512.jpg?1");
+            background: url("images/main photo.jpeg");
           background-position: center;
           background-size: cover;
           border: 7px solid var(--lighter-black);
@@ -769,7 +768,7 @@
                         </li>
                 </ul>
             </div>
-            <div class="portfolio-intro">
+            < class="portfolio-intro">
             <h3 class="white-text">Porfolio</h3>
                 <p class="section-lead">
                     Here are some of the projects I have worked on. Click on the
@@ -782,7 +781,23 @@
                         <img src="images\Pacam.png" alt="Pacman" style="width: 720px; height: 520px; padding: 10px 0;">
                     </a>
                 </div>
-            </div>
+                <div style="display: flex; justify-content: center;">
+                    <a href="https://github.com/mad0021/snake-game" target="_blank">
+                        <img src="images\Snake game.png" alt="Snake" style="width: 720px; height: 520px; padding: 10px 0;">
+                    </a>
+                </div>
+
+                <div style="display: flex; justify-content: center;">
+                    <a href="https://github.com/mad0021/Netflix-Login-Page-Clone" target="_blank">
+                        <img src="images\Netflix-Login-Page-Clone.png" alt="Netflix" style="width: 720px; height: 520px; padding: 10px 0;">
+                    </a>
+                  </div>
+
+                  <div style="display: flex; justify-content: center;">
+                    <a href="https://github.com/mad0021/Rock-Paper-Scissors-Game" target="_blank">
+                        <img src="images\Rock-Paper-Scissors-Game.png" alt="Rock-Paper-Scissors-Game" style="width: 720px; height: 520px; padding: 10px 0;">
+                    </a>
+                  </div>
         </section>
         <section id="social" class="dark-bg">
             <div class="social-intro">
